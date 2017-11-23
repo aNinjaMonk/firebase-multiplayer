@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "127564653464",
+    "firebase_url": "https://makerazza-f1e33.firebaseio.com",
+    "project_id": "makerazza-f1e33",
+    "storage_bucket": "makerazza-f1e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127564653464:android:9bcdb4c1f557e3a7",
+        "android_client_info": {
+          "package_name": "com.makerazza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127564653464-ujun0if5qqlphjpesh5de0e5cdud51sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKkX-QYyzhTGkWdmdU7T-cQPbi7s_M-CY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127564653464:android:c5687ff437545ae1",
+        "android_client_info": {
+          "package_name": "com.code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127564653464-ujun0if5qqlphjpesh5de0e5cdud51sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKkX-QYyzhTGkWdmdU7T-cQPbi7s_M-CY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
